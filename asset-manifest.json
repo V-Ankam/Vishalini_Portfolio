@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Vishalini_Portfolio/static/css/main.e1ae90cf.css",
+    "main.js": "/Vishalini_Portfolio/static/js/main.f240aa6e.js",
+    "static/media/HeroImage.png": "/Vishalini_Portfolio/static/media/HeroImage.ba81c87c793d0bf57c80.png",
+    "index.html": "/Vishalini_Portfolio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.e1ae90cf.css",
+    "static/js/main.f240aa6e.js"
+  ]
+}
